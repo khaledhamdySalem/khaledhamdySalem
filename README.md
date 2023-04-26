@@ -8,7 +8,7 @@
 
 
 
-- 🏢 I'm iOS Developer at ITS.
+- 🏢 I'm iOS Developer.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 ### Connect with Me :
